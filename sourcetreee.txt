@@ -6,4 +6,8 @@ sourcetree test
 aaa
 
 
+<<<<<<< HEAD
 test two
+=======
+test sourcetree
+>>>>>>> origin/java
